@@ -28,15 +28,15 @@ To run the script, follow these steps:
 - **Open your terminal or command prompt.**
 - **Navigate to the directory containing the script.** Use the `cd` command to change to the directory where you've saved `network_port_scanner.py`.
 
-  Example:
   ```bash
-  cd path/to/your/script```
+  cd path/to/your/script
+  ``
 
 - **Run the script using the following command:**
   
   ```bash
   python network_port_scanner.py
- ```
+ ``
 - **Follow the on-screen prompts:**
   - Enter the target IP address when prompted.
   - Enter the start port and end port for the range you wish to scan.
