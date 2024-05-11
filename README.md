@@ -32,6 +32,7 @@ To run the script, follow these steps:
   ```bash
   cd path/to/your/script
  ```
+
 - **Run the script using the following command:**
   
   ```bash
