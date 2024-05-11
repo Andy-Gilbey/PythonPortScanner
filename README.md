@@ -48,7 +48,6 @@ To run the script, follow these steps:
 ## Handling Results
 The script outputs a CSV file named `scan_results_<timestamp>.csv` containing details of all open ports found during the scan. You can open this file with any text editor or spreadsheet software to review the results.
 
-## License
 
 ## Legal Notice and Responsible Use
 Before utilising this port scanner, it is imperative to obtain the explicit permission from the network owners. 
